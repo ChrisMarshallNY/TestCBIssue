@@ -2,6 +2,8 @@
 
 This project contains about the simplest comparison I can make for testing this.
 
+[This is the GitHub repo for this project](https://github.com/ChrisMarshallNY/TestCBIssue)
+
 ## THE ISSUE
 
 When a MacOS app gets the [centralManager(_ central: CBCentralManager, didDiscover: CBPeripheral, advertisementData: [String : Any], rssi: NSNumber)](https://developer.apple.com/documentation/corebluetooth/cbcentralmanagerdelegate/1518937-centralmanager) callback, it delivers different data on the Mac, than on iOS.
