@@ -1,3 +1,5 @@
+![Icon](icon.png)
+
 # STRANGE CORE BLUETOOTH ISSUE
 
 This project contains about the simplest comparison I can make for testing this.
