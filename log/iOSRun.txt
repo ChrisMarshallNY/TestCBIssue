@@ -1,0 +1,80 @@
+Discovered Peripheral (34F12E9D-57F2-6423-C3AB-61057D213D71) Named "Eve Light Switch 60"
+	Peripheral: <CBPeripheral: 0x282d914a0, identifier = 34F12E9D-57F2-6423-C3AB-61057D213D71, name = Eve Light Switch 60, state = disconnected>
+	Advertisement Data: ["kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataLocalName": Eve Light Switch 60CC, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataIsConnectable": 1, "kCBAdvDataTimestamp": 616949490.850178]
+	Signal Strength: -75dBm
+
+Discovered Peripheral (303DFCF6-3B02-2165-A06C-EDDB7E96261B) Named "Soulcatcher"
+	Peripheral: <CBPeripheral: 0x282d94d20, identifier = 303DFCF6-3B02-2165-A06C-EDDB7E96261B, name = Soulcatcher, state = disconnected>
+	Advertisement Data: ["kCBAdvDataTimestamp": 616949490.876804, "kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataIsConnectable": 1, "kCBAdvDataRxSecondaryPHY": 0]
+	Signal Strength: -40dBm
+
+Discovered Peripheral (D009AF6F-4BC5-3A8F-99F1-4A7C165066BF) With Nil Name
+	Peripheral: <CBPeripheral: 0x282d915e0, identifier = D009AF6F-4BC5-3A8F-99F1-4A7C165066BF, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataIsConnectable": 1, "kCBAdvDataTimestamp": 616949490.893416]
+	Signal Strength: -40dBm
+
+Discovered Peripheral (BAE5FE89-4179-DD8E-3775-FE7C1BD57669) With Nil Name
+	Peripheral: <CBPeripheral: 0x282d94d20, identifier = BAE5FE89-4179-DD8E-3775-FE7C1BD57669, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataTimestamp": 616949490.924624, "kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataIsConnectable": 0, "kCBAdvDataRxSecondaryPHY": 0]
+	Signal Strength: -67dBm
+
+Discovered Peripheral (8C38E278-F5C8-CC3E-DCB2-C3247255C250) With Nil Name
+	Peripheral: <CBPeripheral: 0x282d8c0a0, identifier = 8C38E278-F5C8-CC3E-DCB2-C3247255C250, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataTxPowerLevel": 8, "kCBAdvDataTimestamp": 616949490.979063, "kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataIsConnectable": 1]
+	Signal Strength: -76dBm
+
+Discovered Peripheral (EA3F2360-8902-3FA7-DEEE-FFB5C4315C70) Named "One-Eye"
+	Peripheral: <CBPeripheral: 0x282d980a0, identifier = EA3F2360-8902-3FA7-DEEE-FFB5C4315C70, name = One-Eye, state = disconnected>
+	Advertisement Data: ["kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataIsConnectable": 1, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataTimestamp": 616949490.993977]
+	Signal Strength: -39dBm
+
+Discovered Peripheral (453F3B1F-2E57-4F12-BA4C-4518295797DB) Named "Desk"
+	Peripheral: <CBPeripheral: 0x282d980a0, identifier = 453F3B1F-2E57-4F12-BA4C-4518295797DB, name = Desk, state = disconnected>
+	Advertisement Data: ["kCBAdvDataTxPowerLevel": 12, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataTimestamp": 616949491.001282, "kCBAdvDataIsConnectable": 1]
+	Signal Strength: -40dBm
+
+Discovered Peripheral (38CC5FC1-5A63-1350-ACFF-752718A26C5F) With Nil Name
+	Peripheral: <CBPeripheral: 0x282d980a0, identifier = 38CC5FC1-5A63-1350-ACFF-752718A26C5F, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataTxPowerLevel": 12, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataTimestamp": 616949491.001349, "kCBAdvDataIsConnectable": 1]
+	Signal Strength: -79dBm
+
+Discovered Peripheral (0989D0B0-9F07-46C0-95A5-BE60CC2E2318) Named "Tom-Tom"
+	Peripheral: <CBPeripheral: 0x282d8c0a0, identifier = 0989D0B0-9F07-46C0-95A5-BE60CC2E2318, name = Tom-Tom, state = disconnected>
+	Advertisement Data: ["kCBAdvDataTxPowerLevel": 12, "kCBAdvDataTimestamp": 616949491.058268, "kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataIsConnectable": 1]
+	Signal Strength: -46dBm
+
+Discovered Peripheral (8D8FB9C1-72C2-9177-E379-B5181D903D51) Named "Lady"
+	Peripheral: <CBPeripheral: 0x282d9c000, identifier = 8D8FB9C1-72C2-9177-E379-B5181D903D51, name = Lady, state = disconnected>
+	Advertisement Data: ["kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataTimestamp": 616949491.070941, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataIsConnectable": 1]
+	Signal Strength: -40dBm
+
+Discovered Peripheral (9FA54D42-DE58-85F8-8748-FBF9C0A98DB9) Named "[TV]Living Room TV"
+	Peripheral: <CBPeripheral: 0x282d9c000, identifier = 9FA54D42-DE58-85F8-8748-FBF9C0A98DB9, name = [TV]Living Room TV, state = disconnected>
+	Advertisement Data: ["kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataManufacturerData": <75004204 018060d8 e0e136da 37dae0e1 36da3601 2e000000 0000>, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataIsConnectable": 0, "kCBAdvDataTimestamp": 616949491.139423]
+	Signal Strength: -64dBm
+
+Discovered Peripheral (2FD4D489-7754-B818-D8C5-B319EC94FFE6) Named "Croaker"
+	Peripheral: <CBPeripheral: 0x282d980a0, identifier = 2FD4D489-7754-B818-D8C5-B319EC94FFE6, name = Croaker, state = disconnected>
+	Advertisement Data: ["kCBAdvDataTxPowerLevel": 12, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataTimestamp": 616949491.255223, "kCBAdvDataIsConnectable": 1]
+	Signal Strength: -41dBm
+
+Discovered Peripheral (E16766B2-178B-0132-A6FF-D1017D8C6215) Named "The Limper"
+	Peripheral: <CBPeripheral: 0x282d980a0, identifier = E16766B2-178B-0132-A6FF-D1017D8C6215, name = The Limper, state = disconnected>
+	Advertisement Data: ["kCBAdvDataTxPowerLevel": 24, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataTimestamp": 616949491.256117, "kCBAdvDataIsConnectable": 1]
+	Signal Strength: -46dBm
+
+Discovered Peripheral (A52C1F8A-407D-3488-4493-755DD2921972) With Nil Name
+	Peripheral: <CBPeripheral: 0x282d980a0, identifier = A52C1F8A-407D-3488-4493-755DD2921972, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataTimestamp": 616949491.264876, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataIsConnectable": 0]
+	Signal Strength: -38dBm
+
+Discovered Peripheral (7DE82164-BCF8-B1BF-4D14-B5FBAA723AB1) With Nil Name
+	Peripheral: <CBPeripheral: 0x282d980a0, identifier = 7DE82164-BCF8-B1BF-4D14-B5FBAA723AB1, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataTxPowerLevel": 12, "kCBAdvDataTimestamp": 616949491.30338, "kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataIsConnectable": 1]
+	Signal Strength: -83dBm
+
+Discovered Peripheral (D90BD609-990F-2B13-9DE9-873DBB08B3E5) Named "TV"
+	Peripheral: <CBPeripheral: 0x282d9c000, identifier = D90BD609-990F-2B13-9DE9-873DBB08B3E5, name = TV, state = disconnected>
+	Advertisement Data: ["kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataTimestamp": 616949491.354241, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataIsConnectable": 1]
+	Signal Strength: -56dBm
+

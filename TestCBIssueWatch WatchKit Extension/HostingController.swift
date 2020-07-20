@@ -1,8 +1,8 @@
 //
 //  HostingController.swift
-//  TestCBIssueWatch Extension
+//  TestCBIssueWatch WatchKit Extension
 //
-//  Created by Chris Marshall on 7/18/20.
+//  Created by Chris Marshall on 7/20/20.
 //  Copyright © 2020 Little Green Viper Software Development LLC. All rights reserved.
 //
 

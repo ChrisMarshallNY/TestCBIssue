@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>TestCBIssueWatch Extension</string>
+	<string>TestCBIssueWatch WatchKit App</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -24,17 +24,14 @@
 	<string>Blue Wizard Needs Food -Badly</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
 	<string>Blue Wizard Needs Food -Badly</string>
-	<key>NSExtension</key>
-	<dict>
-		<key>NSExtensionAttributes</key>
-		<dict>
-			<key>WKAppBundleIdentifier</key>
-			<string>com.littlegreenviper.TestCBIssueiOS.watchkitapp</string>
-		</dict>
-		<key>NSExtensionPointIdentifier</key>
-		<string>com.apple.watchkit</string>
-	</dict>
-	<key>WKExtensionDelegateClassName</key>
-	<string>$(PRODUCT_MODULE_NAME).ExtensionDelegate</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+	<key>WKWatchKitApp</key>
+	<true/>
+    <key>WKCompanionAppBundleIdentifier</key>
+    <string>com.littlegreenviper.TestCBIssueiOS</string>
 </dict>
 </plist>

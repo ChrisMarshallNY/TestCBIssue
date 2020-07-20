@@ -1,0 +1,75 @@
+Discovered Peripheral (59A8D3DF-AACC-477E-A9D0-DE066CCE4CC0) Named "iPad Mini 4"
+	Peripheral: <CBPeripheral: 0x282c29720, identifier = 59A8D3DF-AACC-477E-A9D0-DE066CCE4CC0, name = iPad Mini 4, state = disconnected>
+	Advertisement Data: ["kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 0, "kCBAdvDataIsConnectable": 1, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataTimestamp": 616948829.281983]
+	Signal Strength: -36dBm
+
+Discovered Peripheral (F38ED133-4CFC-9039-E55C-7FE463DA9514) Named "Croaker"
+	Peripheral: <CBPeripheral: 0x282c2cd20, identifier = F38ED133-4CFC-9039-E55C-7FE463DA9514, name = Croaker, state = disconnected>
+	Advertisement Data: ["kCBAdvDataIsConnectable": 1, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 0, "kCBAdvDataTimestamp": 616948829.415]
+	Signal Strength: -36dBm
+
+Discovered Peripheral (6BFDCA37-6638-CE26-6BB4-B7373DD3DB0A) Named "iPad Mini 5"
+	Peripheral: <CBPeripheral: 0x282c29720, identifier = 6BFDCA37-6638-CE26-6BB4-B7373DD3DB0A, name = iPad Mini 5, state = disconnected>
+	Advertisement Data: ["kCBAdvDataIsConnectable": 1, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 0, "kCBAdvDataTimestamp": 616948829.417433]
+	Signal Strength: -37dBm
+
+Discovered Peripheral (F935B767-7052-6600-E6CB-7CA9C2AFE4A3) Named "Eve"
+	Peripheral: <CBPeripheral: 0x282c29720, identifier = F935B767-7052-6600-E6CB-7CA9C2AFE4A3, name = Eve, state = disconnected>
+	Advertisement Data: ["kCBAdvDataIsConnectable": 1, "kCBAdvDataRxPrimaryPHY": 0, "kCBAdvDataLocalName": Eve, "kCBAdvDataTimestamp": 616948829.511111, "kCBAdvDataRxSecondaryPHY": 0]
+	Signal Strength: -72dBm
+
+Discovered Peripheral (F935B767-7052-6600-E6CB-7CA9C2AFE4A3) Named "Eve Light Switch 60CC"
+	Peripheral: <CBPeripheral: 0x282c29720, identifier = F935B767-7052-6600-E6CB-7CA9C2AFE4A3, name = Eve Light Switch 60CC, state = disconnected>
+	Advertisement Data: ["kCBAdvDataIsConnectable": 1, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 0, "kCBAdvDataTimestamp": 616948829.511621, "kCBAdvDataLocalName": Eve Light Switch 60CC]
+	Signal Strength: -73dBm
+
+Discovered Peripheral (8309B4EE-F163-A588-C27D-072715FA754B) With Nil Name
+	Peripheral: <CBPeripheral: 0x282c29860, identifier = 8309B4EE-F163-A588-C27D-072715FA754B, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 0, "kCBAdvDataTimestamp": 616948829.530219, "kCBAdvDataIsConnectable": 0]
+	Signal Strength: -59dBm
+
+Discovered Peripheral (816FF4CD-7106-C181-25A4-4FD99D6C2D81) With Nil Name
+	Peripheral: <CBPeripheral: 0x282c2cd20, identifier = 816FF4CD-7106-C181-25A4-4FD99D6C2D81, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataIsConnectable": 1, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 0, "kCBAdvDataTimestamp": 616948829.536477]
+	Signal Strength: -46dBm
+
+Discovered Peripheral (22B805CE-0DF0-15F6-94B2-79DE996ECCB5) Named "Soulcatcher"
+	Peripheral: <CBPeripheral: 0x282c2cd20, identifier = 22B805CE-0DF0-15F6-94B2-79DE996ECCB5, name = Soulcatcher, state = disconnected>
+	Advertisement Data: ["kCBAdvDataIsConnectable": 1, "kCBAdvDataRxPrimaryPHY": 0, "kCBAdvDataTimestamp": 616948829.537997, "kCBAdvDataRxSecondaryPHY": 0]
+	Signal Strength: -46dBm
+
+Discovered Peripheral (B4C44715-997A-2B07-4C58-0899F4337C9B) With Nil Name
+	Peripheral: <CBPeripheral: 0x282c2cd20, identifier = B4C44715-997A-2B07-4C58-0899F4337C9B, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataIsConnectable": 1, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 0, "kCBAdvDataTimestamp": 616948829.5681061]
+	Signal Strength: -71dBm
+
+Discovered Peripheral (F1F2457B-5979-C190-AEEC-1EFA8A12564C) Named "Lady"
+	Peripheral: <CBPeripheral: 0x282c29860, identifier = F1F2457B-5979-C190-AEEC-1EFA8A12564C, name = Lady, state = disconnected>
+	Advertisement Data: ["kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 0, "kCBAdvDataIsConnectable": 1, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataTimestamp": 616948829.6100661]
+	Signal Strength: -60dBm
+
+Discovered Peripheral (013FD658-4D24-2949-7CD4-D24E1E11E5B4) Named "Goblin"
+	Peripheral: <CBPeripheral: 0x282c29860, identifier = 013FD658-4D24-2949-7CD4-D24E1E11E5B4, name = Goblin, state = disconnected>
+	Advertisement Data: ["kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 0, "kCBAdvDataIsConnectable": 1, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataTimestamp": 616948829.612854]
+	Signal Strength: -42dBm
+
+Discovered Peripheral (61A81E2B-BC6A-4BCE-D4B7-652DB4733EF2) Named "TV"
+	Peripheral: <CBPeripheral: 0x282c2cd20, identifier = 61A81E2B-BC6A-4BCE-D4B7-652DB4733EF2, name = TV, state = disconnected>
+	Advertisement Data: ["kCBAdvDataRxPrimaryPHY": 0, "kCBAdvDataIsConnectable": 1, "kCBAdvDataTimestamp": 616948829.70669, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataRxSecondaryPHY": 0]
+	Signal Strength: -65dBm
+
+Discovered Peripheral (05BBF232-35F6-2CAC-2F24-5AA6E4028702) Named "Apple Watch 5"
+	Peripheral: <CBPeripheral: 0x282c29860, identifier = 05BBF232-35F6-2CAC-2F24-5AA6E4028702, name = Apple Watch 5, state = disconnected>
+	Advertisement Data: ["kCBAdvDataIsConnectable": 1, "kCBAdvDataTxPowerLevel": 24, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 0, "kCBAdvDataTimestamp": 616948829.811687]
+	Signal Strength: -54dBm
+
+Discovered Peripheral (2CD57F8D-497B-ACBA-7C3A-53238B72DFC7) Named "[TV]Living Room TV"
+	Peripheral: <CBPeripheral: 0x282c2cd20, identifier = 2CD57F8D-497B-ACBA-7C3A-53238B72DFC7, name = [TV]Living Room TV, state = disconnected>
+	Advertisement Data: ["kCBAdvDataIsConnectable": 0, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 0, "kCBAdvDataManufacturerData": <75004204 018060d8 e0e136da 37dae0e1 36da3601 2e000000 0000>, "kCBAdvDataTimestamp": 616948829.832754]
+	Signal Strength: -73dBm
+
+Discovered Peripheral (DA71A8BA-F5C2-D280-60B2-8C5370AF8DD2) With Nil Name
+	Peripheral: <CBPeripheral: 0x282c2cf00, identifier = DA71A8BA-F5C2-D280-60B2-8C5370AF8DD2, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataIsConnectable": 1, "kCBAdvDataTxPowerLevel": 8, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataRxPrimaryPHY": 0, "kCBAdvDataTimestamp": 616948830.745289]
+	Signal Strength: -77dBm
+
