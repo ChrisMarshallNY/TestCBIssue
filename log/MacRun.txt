@@ -1,309 +1,99 @@
-Discovered Peripheral (C664AC30-C2B2-4EB8-A68E-43C50F8249E2) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003311040, identifier = C664AC30-C2B2-4EB8-A68E-43C50F8249E2, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataAppleMfgData": {
+----
+Peripheral List:
+Discovered Peripheral (02F611F1-1B36-4C8E-ACF0-F9723281771C) With Nil Name
+	Peripheral: <CBPeripheral: 0x600003308820, identifier = 02F611F1-1B36-4C8E-ACF0-F9723281771C, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataIsConnectable": 1, "kCBAdvDataAppleMfgData": {
     kCBScanOptionAppleFilterPuckType = 16;
-}, "kCBAdvDataChannel": 37, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataIsConnectable": 1, "kCBAdvDataManufacturerData": <4c001006 031e6e1e 6cf9>]
-	Signal Strength: -74dBm
+}, "kCBAdvDataManufacturerData": <4c001005 091cce13 49>, "kCBAdvDataChannel": 37, "kCBAdvDataTxPowerLevel": 12]
+	Signal Strength: -40dBm
 
-Discovered Peripheral (E1302087-E0EF-4784-9665-AC6CEA96CB91) Named "Eve"
-	Peripheral: <CBPeripheral: 0x6000033185a0, identifier = E1302087-E0EF-4784-9665-AC6CEA96CB91, name = Eve, state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataManufacturerData": <4c000631 0128d11f 643de608 002a0002 0252c28b 37>, "kCBAdvDataIsConnectable": 1, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 6;
-}, "kCBAdvDataLocalName": Eve]
-	Signal Strength: -73dBm
-
-Discovered Peripheral (E1302087-E0EF-4784-9665-AC6CEA96CB91) Named "Eve Light Switch 60CC"
-	Peripheral: <CBPeripheral: 0x600003304960, identifier = E1302087-E0EF-4784-9665-AC6CEA96CB91, name = Eve Light Switch 60CC, state = disconnected>
-	Advertisement Data: ["kCBAdvDataIsConnectable": 0, "kCBAdvDataChannel": 37, "kCBAdvDataLocalName": Eve Light Switch 60CC]
-	Signal Strength: -72dBm
-
-Discovered Peripheral (C664AC30-C2B2-4EB8-A68E-43C50F8249E2) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033185a0, identifier = C664AC30-C2B2-4EB8-A68E-43C50F8249E2, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataIsConnectable": 0, "kCBAdvDataChannel": 37]
-	Signal Strength: -75dBm
-
-Discovered Peripheral (27B7FFBA-798C-41BD-9FC5-0D36AF5C9FA4) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003315040, identifier = 27B7FFBA-798C-41BD-9FC5-0D36AF5C9FA4, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataManufacturerData": <4c001005 051cd6fb 5c>, "kCBAdvDataAppleMfgData": {
+Discovered Peripheral (0AD4EE4D-F702-4C62-BA7A-4AB5054C1186) With Nil Name
+	Peripheral: <CBPeripheral: 0x600003311e00, identifier = 0AD4EE4D-F702-4C62-BA7A-4AB5054C1186, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataManufacturerData": <4c001006 111e9d2d 2cd5>, "kCBAdvDataAppleMfgData": {
     kCBScanOptionAppleFilterPuckType = 16;
 }, "kCBAdvDataIsConnectable": 1]
-	Signal Strength: -53dBm
-
-Discovered Peripheral (27B7FFBA-798C-41BD-9FC5-0D36AF5C9FA4) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033185a0, identifier = 27B7FFBA-798C-41BD-9FC5-0D36AF5C9FA4, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataIsConnectable": 0, "kCBAdvDataChannel": 37]
-	Signal Strength: -53dBm
-
-Discovered Peripheral (02F611F1-1B36-4C8E-ACF0-F9723281771C) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033185a0, identifier = 02F611F1-1B36-4C8E-ACF0-F9723281771C, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataTxPowerLevel": 12, "kCBAdvDataManufacturerData": <4c001005 0b1c659e 4b>, "kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 1, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 16;
-}]
-	Signal Strength: -40dBm
-
-Discovered Peripheral (02F611F1-1B36-4C8E-ACF0-F9723281771C) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033185a0, identifier = 02F611F1-1B36-4C8E-ACF0-F9723281771C, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataIsConnectable": 0, "kCBAdvDataChannel": 37]
-	Signal Strength: -40dBm
+	Signal Strength: -45dBm
 
 Discovered Peripheral (1C709CC5-C106-48EF-8E87-E802CE4C5572) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033012c0, identifier = 1C709CC5-C106-48EF-8E87-E802CE4C5572, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataTxPowerLevel": 12, "kCBAdvDataManufacturerData": <4c001005 09144cad 8f>, "kCBAdvDataAppleMfgData": {
+	Peripheral: <CBPeripheral: 0x600003314c80, identifier = 1C709CC5-C106-48EF-8E87-E802CE4C5572, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataAppleMfgData": {
     kCBScanOptionAppleFilterPuckType = 16;
-}, "kCBAdvDataIsConnectable": 1, "kCBAdvDataChannel": 37]
+}, "kCBAdvDataManufacturerData": <4c001005 09144cad 8f>, "kCBAdvDataIsConnectable": 1]
 	Signal Strength: -55dBm
 
-Discovered Peripheral (1C709CC5-C106-48EF-8E87-E802CE4C5572) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003304640, identifier = 1C709CC5-C106-48EF-8E87-E802CE4C5572, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 0]
-	Signal Strength: -54dBm
-
-Discovered Peripheral (EBE9800A-3747-4616-8A7A-E04E38A1C6BD) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003304640, identifier = EBE9800A-3747-4616-8A7A-E04E38A1C6BD, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataIsConnectable": 0, "kCBAdvDataManufacturerData": <4c000906 03d0c0a8 0418>, "kCBAdvDataChannel": 37, "kCBAdvDataAppleMfgData": {
+Discovered Peripheral (26BB7EFA-1055-40D8-9564-8768370AD033) With Nil Name
+	Peripheral: <CBPeripheral: 0x600003305680, identifier = 26BB7EFA-1055-40D8-9564-8768370AD033, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataManufacturerData": <4c000906 0310c0a8 0418>, "kCBAdvDataIsConnectable": 0, "kCBAdvDataAppleMfgData": {
     kCBScanOptionAppleFilterPuckType = 9;
-}]
-	Signal Strength: -54dBm
-
-Discovered Peripheral (B0ADAC8E-BCC3-4B8B-A600-3615A95394BD) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003315040, identifier = B0ADAC8E-BCC3-4B8B-A600-3615A95394BD, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataManufacturerData": <4c001005 0c1c4298 f7>, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 16;
-}, "kCBAdvDataIsConnectable": 1]
-	Signal Strength: -40dBm
-
-Discovered Peripheral (B0ADAC8E-BCC3-4B8B-A600-3615A95394BD) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003315040, identifier = B0ADAC8E-BCC3-4B8B-A600-3615A95394BD, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 0]
-	Signal Strength: -40dBm
-
-Discovered Peripheral (BC3BD394-CC4D-4135-BF3A-4E0BF8B25E13) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003315040, identifier = BC3BD394-CC4D-4135-BF3A-4E0BF8B25E13, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 9;
-}, "kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 0, "kCBAdvDataManufacturerData": <4c000906 030bc0a8 0419>]
-	Signal Strength: -43dBm
-
-Discovered Peripheral (AC78FE8D-C230-44A7-8EBE-452E90DC6253) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003315040, identifier = AC78FE8D-C230-44A7-8EBE-452E90DC6253, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataManufacturerData": <4c001005 0014d356 4c>, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 16;
-}, "kCBAdvDataIsConnectable": 1]
-	Signal Strength: -42dBm
-
-Discovered Peripheral (AC78FE8D-C230-44A7-8EBE-452E90DC6253) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033185a0, identifier = AC78FE8D-C230-44A7-8EBE-452E90DC6253, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 0]
-	Signal Strength: -43dBm
-
-Discovered Peripheral (3B7780F8-930A-48EB-9213-EF0C5896803F) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003304640, identifier = 3B7780F8-930A-48EB-9213-EF0C5896803F, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataTxPowerLevel": 12, "kCBAdvDataManufacturerData": <4c001005 431ca734 47>, "kCBAdvDataIsConnectable": 1, "kCBAdvDataChannel": 37, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 16;
-}]
-	Signal Strength: -44dBm
-
-Discovered Peripheral (3B7780F8-930A-48EB-9213-EF0C5896803F) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003311040, identifier = 3B7780F8-930A-48EB-9213-EF0C5896803F, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 0]
-	Signal Strength: -44dBm
-
-Discovered Peripheral (44A18C2A-70A1-4D26-8457-0EFBE218E5B6) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033012c0, identifier = 44A18C2A-70A1-4D26-8457-0EFBE218E5B6, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataTxPowerLevel": 8, "kCBAdvDataManufacturerData": <4c001006 2a1ae093 199b>, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 16;
-}, "kCBAdvDataIsConnectable": 1, "kCBAdvDataChannel": 37]
-	Signal Strength: -77dBm
-
-Discovered Peripheral (44A18C2A-70A1-4D26-8457-0EFBE218E5B6) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033012c0, identifier = 44A18C2A-70A1-4D26-8457-0EFBE218E5B6, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataIsConnectable": 0, "kCBAdvDataChannel": 37]
-	Signal Strength: -77dBm
-
-Discovered Peripheral (5505F162-B38B-461C-9449-CE7FFBE75F3F) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033012c0, identifier = 5505F162-B38B-461C-9449-CE7FFBE75F3F, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataIsConnectable": 0, "kCBAdvDataManufacturerData": <75004204 018060d8 e0e136da 37dae0e1 36da3601 2e000000 0000>, "kCBAdvDataChannel": 37]
-	Signal Strength: -64dBm
-
-Discovered Peripheral (CD4C8B0A-6CDD-4949-B09B-0C3455E46569) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033012c0, identifier = CD4C8B0A-6CDD-4949-B09B-0C3455E46569, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataTxPowerLevel": 24, "kCBAdvDataManufacturerData": <4c001005 01987e03 21>, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 16;
-}, "kCBAdvDataIsConnectable": 1, "kCBAdvDataChannel": 37]
-	Signal Strength: -60dBm
-
-Discovered Peripheral (CD4C8B0A-6CDD-4949-B09B-0C3455E46569) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003311040, identifier = CD4C8B0A-6CDD-4949-B09B-0C3455E46569, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 0]
-	Signal Strength: -60dBm
-
-Discovered Peripheral (0AD4EE4D-F702-4C62-BA7A-4AB5054C1186) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003304640, identifier = 0AD4EE4D-F702-4C62-BA7A-4AB5054C1186, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataTxPowerLevel": 12, "kCBAdvDataManufacturerData": <4c001006 111e3005 0490>, "kCBAdvDataIsConnectable": 1, "kCBAdvDataChannel": 37, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 16;
-}]
-	Signal Strength: -39dBm
-
-Discovered Peripheral (0AD4EE4D-F702-4C62-BA7A-4AB5054C1186) With Nil Name
-	Peripheral: <CBPeripheral: 0x60000331c000, identifier = 0AD4EE4D-F702-4C62-BA7A-4AB5054C1186, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataIsConnectable": 0, "kCBAdvDataChannel": 37]
-	Signal Strength: -39dBm
-
-Discovered Peripheral (E1302087-E0EF-4784-9665-AC6CEA96CB91) Named "Eve"
-	Peripheral: <CBPeripheral: 0x60000331c000, identifier = E1302087-E0EF-4784-9665-AC6CEA96CB91, name = Eve, state = disconnected>
-	Advertisement Data: ["kCBAdvDataManufacturerData": <4c000631 0128d11f 643de608 002a0002 0252c28b 37>, "kCBAdvDataIsConnectable": 1, "kCBAdvDataChannel": 37, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 6;
-}, "kCBAdvDataLocalName": Eve]
-	Signal Strength: -67dBm
-
-Discovered Peripheral (5505F162-B38B-461C-9449-CE7FFBE75F3F) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003315040, identifier = 5505F162-B38B-461C-9449-CE7FFBE75F3F, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataManufacturerData": <75004204 018060d8 e0e136da 37dae0e1 36da3601 2e000000 0000>, "kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 0]
-	Signal Strength: -62dBm
+}, "kCBAdvDataChannel": 37]
+	Signal Strength: -55dBm
 
 Discovered Peripheral (27B7FFBA-798C-41BD-9FC5-0D36AF5C9FA4) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003315040, identifier = 27B7FFBA-798C-41BD-9FC5-0D36AF5C9FA4, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataManufacturerData": <4c001005 051cd6fb 5c>, "kCBAdvDataAppleMfgData": {
+	Peripheral: <CBPeripheral: 0x600003306260, identifier = 27B7FFBA-798C-41BD-9FC5-0D36AF5C9FA4, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataAppleMfgData": {
     kCBScanOptionAppleFilterPuckType = 16;
-}, "kCBAdvDataIsConnectable": 1]
-	Signal Strength: -57dBm
+}, "kCBAdvDataManufacturerData": <4c001005 051cbfa9 87>, "kCBAdvDataIsConnectable": 1]
+	Signal Strength: -46dBm
 
-Discovered Peripheral (27B7FFBA-798C-41BD-9FC5-0D36AF5C9FA4) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003315040, identifier = 27B7FFBA-798C-41BD-9FC5-0D36AF5C9FA4, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 0]
-	Signal Strength: -57dBm
-
-Discovered Peripheral (BC3BD394-CC4D-4135-BF3A-4E0BF8B25E13) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033012c0, identifier = BC3BD394-CC4D-4135-BF3A-4E0BF8B25E13, name = (null), state = disconnected>
+Discovered Peripheral (2D6736B8-C42D-4933-9EAA-5537A3E8F293) With Nil Name
+	Peripheral: <CBPeripheral: 0x600003311c20, identifier = 2D6736B8-C42D-4933-9EAA-5537A3E8F293, name = (null), state = disconnected>
 	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataAppleMfgData": {
     kCBScanOptionAppleFilterPuckType = 9;
-}, "kCBAdvDataIsConnectable": 0, "kCBAdvDataManufacturerData": <4c000906 030bc0a8 0419>]
-	Signal Strength: -42dBm
+}, "kCBAdvDataManufacturerData": <4c000906 0314c0a8 0419>, "kCBAdvDataIsConnectable": 0]
+	Signal Strength: -45dBm
 
-Discovered Peripheral (B0ADAC8E-BCC3-4B8B-A600-3615A95394BD) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003315040, identifier = B0ADAC8E-BCC3-4B8B-A600-3615A95394BD, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataManufacturerData": <4c001005 0c1c4298 f7>, "kCBAdvDataAppleMfgData": {
+Discovered Peripheral (3B7780F8-930A-48EB-9213-EF0C5896803F) With Nil Name
+	Peripheral: <CBPeripheral: 0x6000033086e0, identifier = 3B7780F8-930A-48EB-9213-EF0C5896803F, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataAppleMfgData": {
+    kCBScanOptionAppleFilterPuckType = 16;
+}, "kCBAdvDataManufacturerData": <4c001005 0b1c9ae6 b6>, "kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 1, "kCBAdvDataTxPowerLevel": 12]
+	Signal Strength: -56dBm
+
+Discovered Peripheral (42A45804-3FB4-4976-ACD4-413D182ADEB3) With Nil Name
+	Peripheral: <CBPeripheral: 0x6000033085a0, identifier = 42A45804-3FB4-4976-ACD4-413D182ADEB3, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataTxPowerLevel": 8, "kCBAdvDataChannel": 37, "kCBAdvDataManufacturerData": <4c001006 2e1a5461 1123>, "kCBAdvDataAppleMfgData": {
     kCBScanOptionAppleFilterPuckType = 16;
 }, "kCBAdvDataIsConnectable": 1]
-	Signal Strength: -40dBm
-
-Discovered Peripheral (B0ADAC8E-BCC3-4B8B-A600-3615A95394BD) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033185a0, identifier = B0ADAC8E-BCC3-4B8B-A600-3615A95394BD, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataIsConnectable": 0, "kCBAdvDataChannel": 37]
-	Signal Strength: -41dBm
-
-Discovered Peripheral (EBE9800A-3747-4616-8A7A-E04E38A1C6BD) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033081e0, identifier = EBE9800A-3747-4616-8A7A-E04E38A1C6BD, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataManufacturerData": <4c000906 03d0c0a8 0418>, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 9;
-}, "kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 0]
-	Signal Strength: -51dBm
-
-Discovered Peripheral (CD4C8B0A-6CDD-4949-B09B-0C3455E46569) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003304640, identifier = CD4C8B0A-6CDD-4949-B09B-0C3455E46569, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataTxPowerLevel": 24, "kCBAdvDataManufacturerData": <4c001005 01987e03 21>, "kCBAdvDataIsConnectable": 1, "kCBAdvDataChannel": 37, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 16;
-}]
-	Signal Strength: -59dBm
-
-Discovered Peripheral (CD4C8B0A-6CDD-4949-B09B-0C3455E46569) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003311040, identifier = CD4C8B0A-6CDD-4949-B09B-0C3455E46569, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 0]
-	Signal Strength: -59dBm
-
-Discovered Peripheral (3B7780F8-930A-48EB-9213-EF0C5896803F) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033185a0, identifier = 3B7780F8-930A-48EB-9213-EF0C5896803F, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataTxPowerLevel": 12, "kCBAdvDataManufacturerData": <4c001005 431ca734 47>, "kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 1, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 16;
-}]
-	Signal Strength: -47dBm
-
-Discovered Peripheral (3B7780F8-930A-48EB-9213-EF0C5896803F) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003311040, identifier = 3B7780F8-930A-48EB-9213-EF0C5896803F, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 0]
-	Signal Strength: -47dBm
-
-Discovered Peripheral (44A18C2A-70A1-4D26-8457-0EFBE218E5B6) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003311040, identifier = 44A18C2A-70A1-4D26-8457-0EFBE218E5B6, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 16;
-}, "kCBAdvDataChannel": 37, "kCBAdvDataTxPowerLevel": 8, "kCBAdvDataIsConnectable": 1, "kCBAdvDataManufacturerData": <4c001006 2a1ae093 199b>]
-	Signal Strength: -78dBm
-
-Discovered Peripheral (44A18C2A-70A1-4D26-8457-0EFBE218E5B6) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033012c0, identifier = 44A18C2A-70A1-4D26-8457-0EFBE218E5B6, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataIsConnectable": 0, "kCBAdvDataChannel": 37]
-	Signal Strength: -77dBm
-
-Discovered Peripheral (AC78FE8D-C230-44A7-8EBE-452E90DC6253) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033012c0, identifier = AC78FE8D-C230-44A7-8EBE-452E90DC6253, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataTxPowerLevel": 12, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 16;
-}, "kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 1, "kCBAdvDataManufacturerData": <4c001005 0014d356 4c>]
-	Signal Strength: -43dBm
-
-Discovered Peripheral (AC78FE8D-C230-44A7-8EBE-452E90DC6253) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003311040, identifier = AC78FE8D-C230-44A7-8EBE-452E90DC6253, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 0]
-	Signal Strength: -43dBm
-
-Discovered Peripheral (E1302087-E0EF-4784-9665-AC6CEA96CB91) Named "Eve Light Switch 60CC"
-	Peripheral: <CBPeripheral: 0x6000033185a0, identifier = E1302087-E0EF-4784-9665-AC6CEA96CB91, name = Eve Light Switch 60CC, state = disconnected>
-	Advertisement Data: ["kCBAdvDataLocalName": Eve Light Switch 60CC, "kCBAdvDataIsConnectable": 0, "kCBAdvDataChannel": 37]
-	Signal Strength: -66dBm
-
-Discovered Peripheral (1C709CC5-C106-48EF-8E87-E802CE4C5572) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003304640, identifier = 1C709CC5-C106-48EF-8E87-E802CE4C5572, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataTxPowerLevel": 12, "kCBAdvDataManufacturerData": <4c001005 09144cad 8f>, "kCBAdvDataIsConnectable": 1, "kCBAdvDataChannel": 37, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 16;
-}]
-	Signal Strength: -52dBm
-
-Discovered Peripheral (1C709CC5-C106-48EF-8E87-E802CE4C5572) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003304640, identifier = 1C709CC5-C106-48EF-8E87-E802CE4C5572, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 0]
-	Signal Strength: -53dBm
-
-Discovered Peripheral (0AD4EE4D-F702-4C62-BA7A-4AB5054C1186) With Nil Name
-	Peripheral: <CBPeripheral: 0x600003304640, identifier = 0AD4EE4D-F702-4C62-BA7A-4AB5054C1186, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataTxPowerLevel": 12, "kCBAdvDataManufacturerData": <4c001006 111e3005 0490>, "kCBAdvDataIsConnectable": 1, "kCBAdvDataChannel": 37, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 16;
-}]
-	Signal Strength: -48dBm
-
-Discovered Peripheral (C664AC30-C2B2-4EB8-A68E-43C50F8249E2) With Nil Name
-	Peripheral: <CBPeripheral: 0x60000330ca00, identifier = C664AC30-C2B2-4EB8-A68E-43C50F8249E2, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 16;
-}, "kCBAdvDataManufacturerData": <4c001006 031e6e1e 6cf9>, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 1]
-	Signal Strength: -77dBm
-
-Discovered Peripheral (C664AC30-C2B2-4EB8-A68E-43C50F8249E2) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033012c0, identifier = C664AC30-C2B2-4EB8-A68E-43C50F8249E2, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataIsConnectable": 0, "kCBAdvDataChannel": 37]
-	Signal Strength: -77dBm
-
-Discovered Peripheral (0AD4EE4D-F702-4C62-BA7A-4AB5054C1186) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033081e0, identifier = 0AD4EE4D-F702-4C62-BA7A-4AB5054C1186, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 0]
-	Signal Strength: -41dBm
-
-Discovered Peripheral (02F611F1-1B36-4C8E-ACF0-F9723281771C) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033081e0, identifier = 02F611F1-1B36-4C8E-ACF0-F9723281771C, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataManufacturerData": <4c001005 0b1c659e 4b>, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 16;
-}, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 1]
-	Signal Strength: -46dBm
-
-Discovered Peripheral (02F611F1-1B36-4C8E-ACF0-F9723281771C) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033012c0, identifier = 02F611F1-1B36-4C8E-ACF0-F9723281771C, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataIsConnectable": 0, "kCBAdvDataChannel": 37]
-	Signal Strength: -46dBm
-
-Discovered Peripheral (C9015520-2384-4F95-AE2A-78E2822B0BE8) With Nil Name
-	Peripheral: <CBPeripheral: 0x6000033012c0, identifier = C9015520-2384-4F95-AE2A-78E2822B0BE8, name = (null), state = disconnected>
-	Advertisement Data: ["kCBAdvDataTxPowerLevel": 12, "kCBAdvDataAppleMfgData": {
-    kCBScanOptionAppleFilterPuckType = 16;
-}, "kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 1, "kCBAdvDataManufacturerData": <4c001005 0118922f 42>]
 	Signal Strength: -83dBm
 
+Discovered Peripheral (8743E823-53DF-4FD1-8897-76CEAA13D479) With Nil Name
+	Peripheral: <CBPeripheral: 0x6000033008c0, identifier = 8743E823-53DF-4FD1-8897-76CEAA13D479, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataTxPowerLevel": 12, "kCBAdvDataAppleMfgData": {
+    kCBScanOptionAppleFilterPuckType = 16;
+}, "kCBAdvDataChannel": 37, "kCBAdvDataManufacturerData": <4c001006 031eb130 53de>, "kCBAdvDataIsConnectable": 1]
+	Signal Strength: -75dBm
+
+Discovered Peripheral (952BBB99-981D-4E3B-B352-839D9C569559) With Nil Name
+	Peripheral: <CBPeripheral: 0x600003311d60, identifier = 952BBB99-981D-4E3B-B352-839D9C569559, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataIsConnectable": 0, "kCBAdvDataManufacturerData": <75004204 018060d8 e0e136da 37dae0e1 36da3601 2e000000 0000>, "kCBAdvDataChannel": 37]
+	Signal Strength: -69dBm
+
+Discovered Peripheral (AC78FE8D-C230-44A7-8EBE-452E90DC6253) With Nil Name
+	Peripheral: <CBPeripheral: 0x600003308460, identifier = AC78FE8D-C230-44A7-8EBE-452E90DC6253, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataIsConnectable": 1, "kCBAdvDataAppleMfgData": {
+    kCBScanOptionAppleFilterPuckType = 16;
+}, "kCBAdvDataTxPowerLevel": 12, "kCBAdvDataManufacturerData": <4c001005 0014d356 4c>, "kCBAdvDataChannel": 37]
+	Signal Strength: -43dBm
+
+Discovered Peripheral (B0ADAC8E-BCC3-4B8B-A600-3615A95394BD) With Nil Name
+	Peripheral: <CBPeripheral: 0x600003300500, identifier = B0ADAC8E-BCC3-4B8B-A600-3615A95394BD, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataChannel": 37, "kCBAdvDataIsConnectable": 1, "kCBAdvDataManufacturerData": <4c001005 041c9d2d c1>, "kCBAdvDataAppleMfgData": {
+    kCBScanOptionAppleFilterPuckType = 16;
+}, "kCBAdvDataTxPowerLevel": 12]
+	Signal Strength: -37dBm
+
+Discovered Peripheral (CD4C8B0A-6CDD-4949-B09B-0C3455E46569) With Nil Name
+	Peripheral: <CBPeripheral: 0x600003308960, identifier = CD4C8B0A-6CDD-4949-B09B-0C3455E46569, name = (null), state = disconnected>
+	Advertisement Data: ["kCBAdvDataTxPowerLevel": 24, "kCBAdvDataManufacturerData": <4c001005 0e98af28 31>, "kCBAdvDataAppleMfgData": {
+    kCBScanOptionAppleFilterPuckType = 16;
+}, "kCBAdvDataIsConnectable": 1, "kCBAdvDataChannel": 37]
+	Signal Strength: -44dBm
+
+Discovered Peripheral (E1302087-E0EF-4784-9665-AC6CEA96CB91) Named "Eve Light Switch 60CC"
+	Peripheral: <CBPeripheral: 0x600003301180, identifier = E1302087-E0EF-4784-9665-AC6CEA96CB91, name = Eve Light Switch 60CC, state = disconnected>
+	Advertisement Data: ["kCBAdvDataAppleMfgData": {
+    kCBScanOptionAppleFilterPuckType = 6;
+}, "kCBAdvDataManufacturerData": <4c000631 0128d11f 643de608 002a0002 0252c28b 37>, "kCBAdvDataLocalName": Eve, "kCBAdvDataIsConnectable": 1, "kCBAdvDataChannel": 37]
+	Signal Strength: -70dBm
+
+----
