@@ -16,7 +16,7 @@ On iOS, I get the names of the devices.
 
 On the Mac, I fail to get most of the names.
 
-On TVOS, I sometimes get the default manufacturer name, insteal of the device name that I set.
+On TVOS, I sometimes get the default manufacturer name, instead of the device name that I set.
 
 Also, on the Mac, the "kCBScanOptionAppleFilterPuckType" is added to advertisement data, but is not available anywhere else.
 
